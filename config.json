@@ -1,0 +1,31 @@
+{
+    "settings": {
+        "bspzip_path" : "C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/bin/bspzip.exe",
+        "bsp_output_path" : "C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/maps/output",
+        "force_map_compression" : false,
+        "upload_maps_to_workshop" : false,
+        "verbose_logging" : true,
+        "extension_whitelist" : ["nav", "vmt", "vtf", "mdl", "phy", "vvd", "vtx", "wav", "mp3", "pcf", "res", "txt", "nut"]
+    },
+    "maps": [
+        {
+            "name" : "cp_dustbowl_packed",
+            "enabled" : true,
+            "compress" : false,
+            "ignore_assets" : false,
+            "source_path" : "C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/maps/cp_dustbowl.bsp",
+            "workshop" : {
+                "upload" : false,
+                "id" : 0,
+                "visibility" : 3,
+                "changelog" : ""
+            },
+            "assets": [
+                "C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf//materials"
+            ]
+        }
+    ],
+    "shared_assets" : [
+        "C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf//models"
+    ]
+}
