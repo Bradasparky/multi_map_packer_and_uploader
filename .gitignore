@@ -1,0 +1,5 @@
+.vs/
+*.vcxproj.filters
+*.vcxproj.user
+steam_appid.txt
+steam_api64.dll
