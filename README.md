@@ -1,3 +1,5 @@
+## ⛔[DEPRECATED] Use this instead [MultiMapPackerAndUploader](https://github.com/Bradasparky/MultiMapPackerAndUploader)
+
 # Multi-Map Packer & Uploader
 Inspired by [map_batch_updater](https://github.com/ficool2/map_batch_updater) by ficool2
 
